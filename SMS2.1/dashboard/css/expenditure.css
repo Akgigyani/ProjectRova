@@ -1,0 +1,33 @@
+.billing-info td input[type="text"] {
+    width: 180px;
+  }
+
+  table,
+  th,
+  td {
+    padding: 10px 10px 1px 0;
+  }
+
+  .form-control {
+
+    width: 150px;
+  }
+
+  #qty {
+    margin-bottom: -22px
+  }
+
+  #cost {
+    margin-bottom: -22px;
+    margin-right: 90px;
+  }
+
+  #cost-1 {
+
+    margin-bottom: -22px;
+  }
+
+  #qty-1 {
+
+    margin-bottom: -22px;
+  }
